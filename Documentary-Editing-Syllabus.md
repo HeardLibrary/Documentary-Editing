@@ -12,7 +12,7 @@ How do scholars represent manuscript and printed sources in the digital age? In 
 ### Texts and readings:
 
 [Apollon, Daniel, Claire Belisle, and Philippe Regnier, eds. *Digital Critical Editions*. Urbana: University of Illinois Press, 2014.](http://discoverlibrary.vanderbilt.edu/VANDERBILT:Blended:vanunicorn4723167)   
-[Burnard, Lou. *What Is the Text Encoding Initiative?: How to Add Intelligent Markup to Digital Resources*. Marseille: OpenEdition Press, 2014.](http://books.openedition.org/oep/426) 
+[Burnard, Lou. *What Is the Text Encoding Initiative?: How to Add Intelligent Markup to Digital Resources*. Marseille: OpenEdition Press, 2014.](http://books.openedition.org/oep/426)  
 [MLA Guidelines for Editors of Scholarly Editions](https://www.mla.org/Resources/Research/Surveys-Reports-and-Other-Documents/Publishing-and-Scholarship/Reports-from-the-MLA-Committee-on-Scholarly-Editions/Guidelines-for-Editors-of-Scholarly-Editions)   
 
 ### Assignments & Evaluation:
