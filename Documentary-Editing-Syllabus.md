@@ -8,9 +8,9 @@ How do scholars represent manuscript and printed sources in the digital age? In 
 ### Learning Objectives:
 
 By the End of this course, the student will be able to:
-1. Create a TEI header and encode the basic elements of a document.
-2. Apply the *MLA Guidelines for Editors of Scholarly Editions*. 
-3. Create a customized TEI schema and ODD.
+* Create a TEI header and encode the basic elements of a document.
+* Apply the *MLA Guidelines for Editors of Scholarly Editions*. 
+* Create a customized TEI schema and ODD.
 
 ### Texts and readings:
 
