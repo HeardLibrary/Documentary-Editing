@@ -1,12 +1,13 @@
 # Documentary Editing with TEI   
 **Fall 2017, 12:00 p.m. on Wednesdays and Fridays**
 
-Clifford Anderson, Associate University Librarian for Research and Learning; Professor of Religious Studies   
-Ramona Romero,Librarian for Anthropology, Classical Studies & Philosophy
+Clifford Anderson, *Associate University Librarian for Research and Learning; Professor of Religious Studies*
+
+Ramona Romero, *Librarian for Anthropology, Classical Studies & Philosophy*
 
 How do scholars represent manuscript and printed sources in the digital age? In this course, students will produce scholarly editions using the Text Encoding Initiative (TEI). After exploring our collections to identify a relevant manuscript or printed source, they will interview specialists and stakeholders to determine the best way to represent both its intellectual content and physical structure. Students will undertake digital editions, exploring the differences between digital facsimiles, diplomatic editions, and critical editions. By the conclusion of the course, students will be able to produce digital editions conforming to the MLA's Guidelines for Editors of Scholarly Editions. 
 
-### Learning Objectives:
+## Learning Objectives:
 
 By the End of this course, the student will be able to:
 
@@ -14,17 +15,18 @@ By the End of this course, the student will be able to:
 * Apply the *MLA Guidelines for Editors of Scholarly Editions*;
 * Create a customized TEI schema and ODD.
 
-### Texts and readings:
+## Texts and readings:
 
 * [Apollon, Daniel, Claire Belisle, and Philippe Regnier, eds. *Digital Critical Editions*. Urbana: University of Illinois Press, 2014.](http://discoverlibrary.vanderbilt.edu/VANDERBILT:Blended:vanunicorn4723167)   
 * [Burnard, Lou. *What Is the Text Encoding Initiative?: How to Add Intelligent Markup to Digital Resources*. Marseille: OpenEdition Press, 2014.](http://books.openedition.org/oep/426)  
 * [MLA Guidelines for Editors of Scholarly Editions](https://www.mla.org/Resources/Research/Surveys-Reports-and-Other-Documents/Publishing-and-Scholarship/Reports-from-the-MLA-Committee-on-Scholarly-Editions/Guidelines-for-Editors-of-Scholarly-Editions)   
 
-### Assignments & Evaluation:
+## Assignments & Evaluation:
 
 Put some stuff here. Rubric? What are we assessing?
 
-### Office Hours:
+## Office Hours:
+
 Do we need to have some?
 
 ## Schedule:
