@@ -34,12 +34,12 @@ Do we need to have some?
 ### Week 1:  Introduction to Text Encoding and the TEI
 **Wednesday, September 27 & Friday, September 29**
 
-Readings: Something
+Reading: Claus Huitfeldt, "Markup Technology and Textual Scholarship," *Digital Critical Editions*, pp. 157-178.
 
 ### Week 2:  Common Structure and Elements in the TEI
 **Wednesday, October 4 & Friday, October 6**
 
-Readings: Something
+Reading: Burnard, Lou. "Introduction," "The TEI and XML," "The Structural Organization of a TEI Document," and "Varieties of Textual Structure," *What Is the Text Encoding Initiative?*; Alois Pichler and Tone Merete Bruvik, "Separating Encoding from Presentation," Digital Critical Editing, pp. 179-199.
 
 ### Week 3:  The TEI Header
 **Wednesday, October 11**
