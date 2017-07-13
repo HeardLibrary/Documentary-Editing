@@ -1,5 +1,5 @@
 # Documentary Editing    
-#### Fall 2017, Insert Meeting Days and Time
+#### Fall 2017, 12:00 p.m. on Wednesdays and Fridays
 Clifford Anderson   
 Ramona Romero
 
@@ -14,9 +14,9 @@ By the End of this course, the student will be able to:
 
 ### Texts and readings:
 
-[Apollon, Daniel, Claire Belisle, and Philippe Regnier, eds. *Digital Critical Editions*. Urbana: University of Illinois Press, 2014.](http://discoverlibrary.vanderbilt.edu/VANDERBILT:Blended:vanunicorn4723167)   
-[Burnard, Lou. *What Is the Text Encoding Initiative?: How to Add Intelligent Markup to Digital Resources*. Marseille: OpenEdition Press, 2014.](http://books.openedition.org/oep/426)  
-[MLA Guidelines for Editors of Scholarly Editions](https://www.mla.org/Resources/Research/Surveys-Reports-and-Other-Documents/Publishing-and-Scholarship/Reports-from-the-MLA-Committee-on-Scholarly-Editions/Guidelines-for-Editors-of-Scholarly-Editions)   
+* [Apollon, Daniel, Claire Belisle, and Philippe Regnier, eds. *Digital Critical Editions*. Urbana: University of Illinois Press, 2014.](http://discoverlibrary.vanderbilt.edu/VANDERBILT:Blended:vanunicorn4723167)   
+* [Burnard, Lou. *What Is the Text Encoding Initiative?: How to Add Intelligent Markup to Digital Resources*. Marseille: OpenEdition Press, 2014.](http://books.openedition.org/oep/426)  
+* [MLA Guidelines for Editors of Scholarly Editions](https://www.mla.org/Resources/Research/Surveys-Reports-and-Other-Documents/Publishing-and-Scholarship/Reports-from-the-MLA-Committee-on-Scholarly-Editions/Guidelines-for-Editors-of-Scholarly-Editions)   
 
 ### Assignments & Evaluation:
 
@@ -27,33 +27,51 @@ Do we need to have some?
 
 ## Schedule:
 
-### Week 1 (Insert Date Here):  Introduction to Text Encoding and the TEI
+### Week 1:  Introduction to Text Encoding and the TEI
+#### Wednesday, September 27 & Friday, September 29
+
 Readings: Something
 
-### Week 2 (Insert Date Here):  Common Structure and Elements in the TEI
+### Week 2:  Common Structure and Elements in the TEI
+#### Wednesday, October 4 & Friday, October 6
+
 Readings: Something
 
-### Week 3 (Insert Date Here):  The TEI Header
+### Week 3:  The TEI Header
+#### Wednesday, October 11
+
 Readings:  Something
 
-### Week 4 (Insert Date Here):  Prose
+### Week 4:  Prose
+#### Wednesday, October 18 and Friday, October 20
+
 Readings:  Something
 
-### Week 5 (Insert Date Here):  Poetry
+### Week 5:  Poetry
+#### Wednesday, October 25 and Friday, October 27
+
 Readings:  Something
 
-### Week 6 (Insert Date Here):  Drama
+### Week 6:  Drama
+#### Wednesday, November 1 and Friday, November 3
+
+### Week 7:  Primary Sources
+#### Wednesday, November 8 and Friday, November 10
+
 Readings:  Something
 
-### Week 7 (Insert Date Here):  Primary Sources
+### Week 8:  Critical Editing
+#### Wednesday, November 15 and Friday, November 17
+
 Readings:  Something
 
-### Week 8 (Insert Date Here):  Critical Editing
+### Week 9:  Customizing the TEI, ODD, Roma
+#### Wedneday, November 29 and Friday, December 1
+
 Readings:  Something
 
-### Week 9 (Insert Date Here):  Customizing the TEI, ODD, Roma
-Readings:  Something
+### Week 10:  Something Magical
+#### Friday, December 6
 
-### Week 10 (Insert Date Here):  Something Magical
 Readings:  Something
 
