@@ -1,15 +1,17 @@
-# Documentary Editing    
-#### Fall 2017, 12:00 p.m. on Wednesdays and Fridays
-Clifford Anderson   
-Ramona Romero
+# Documentary Editing with TEI   
+**Fall 2017, 12:00 p.m. on Wednesdays and Fridays**
+
+Clifford Anderson, Associate University Librarian for Research and Learning; Professor of Religious Studies   
+Ramona Romero,Librarian for Anthropology, Classical Studies & Philosophy
 
 How do scholars represent manuscript and printed sources in the digital age? In this course, students will produce scholarly editions using the Text Encoding Initiative (TEI). After exploring our collections to identify a relevant manuscript or printed source, they will interview specialists and stakeholders to determine the best way to represent both its intellectual content and physical structure. Students will undertake digital editions, exploring the differences between digital facsimiles, diplomatic editions, and critical editions. By the conclusion of the course, students will be able to produce digital editions conforming to the MLA's Guidelines for Editors of Scholarly Editions. 
 
 ### Learning Objectives:
 
 By the End of this course, the student will be able to:
-* Create a TEI header and encode the basic elements of a document.
-* Apply the *MLA Guidelines for Editors of Scholarly Editions*. 
+
+* Create a TEI header and encode the basic elements of a document;
+* Apply the *MLA Guidelines for Editors of Scholarly Editions*;
 * Create a customized TEI schema and ODD.
 
 ### Texts and readings:
@@ -28,50 +30,52 @@ Do we need to have some?
 ## Schedule:
 
 ### Week 1:  Introduction to Text Encoding and the TEI
-#### Wednesday, September 27 & Friday, September 29
+**Wednesday, September 27 & Friday, September 29**
 
 Readings: Something
 
 ### Week 2:  Common Structure and Elements in the TEI
-#### Wednesday, October 4 & Friday, October 6
+**Wednesday, October 4 & Friday, October 6**
 
 Readings: Something
 
 ### Week 3:  The TEI Header
-#### Wednesday, October 11
+**Wednesday, October 11**
 
 Readings:  Something
 
 ### Week 4:  Prose
-#### Wednesday, October 18 and Friday, October 20
+**Wednesday, October 18 & Friday, October 20**
 
 Readings:  Something
 
 ### Week 5:  Poetry
-#### Wednesday, October 25 and Friday, October 27
+**Wednesday, October 25 & Friday, October 27**
 
 Readings:  Something
 
 ### Week 6:  Drama
-#### Wednesday, November 1 and Friday, November 3
+**Wednesday, November 1 & Friday, November 3**
+
+Readings:  Something
 
 ### Week 7:  Primary Sources
-#### Wednesday, November 8 and Friday, November 10
+**Wednesday, November 8 & Friday, November 10**
 
 Readings:  Something
 
 ### Week 8:  Critical Editing
-#### Wednesday, November 15 and Friday, November 17
+**Wednesday, November 15 & Friday, November 17**
 
 Readings:  Something
 
 ### Week 9:  Customizing the TEI, ODD, Roma
-#### Wedneday, November 29 and Friday, December 1
+**Wedneday, November 29 & Friday, December 1**
 
 Readings:  Something
 
 ### Week 10:  Something Magical
-#### Friday, December 6
+**Friday, December 6**
 
 Readings:  Something
 
