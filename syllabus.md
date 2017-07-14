@@ -39,45 +39,44 @@ Reading: Claus Huitfeldt, "Markup Technology and Textual Scholarship," *Digital 
 ### Week 2:  Common Structure and Elements in the TEI
 **Wednesday, October 4 & Friday, October 6**
 
-Reading: Burnard, Lou. "Introduction," "The TEI and XML," "The Structural Organization of a TEI Document," and "Varieties of Textual Structure," *What Is the Text Encoding Initiative?*; Alois Pichler and Tone Merete Bruvik, "Separating Encoding from Presentation," Digital Critical Editing, pp. 179-199.
+Reading: Burnard, Lou. "Introduction," "The TEI and XML," "The Structural Organization of a TEI Document," and "Varieties of Textual Structure," *What Is the Text Encoding Initiative?*; Alois Pichler and Tone Merete Bruvik, "Separating Encoding from Presentation," *Digital Critical Editions*, pp. 179-199.
 
 ### Week 3:  The TEI Header
 **Wednesday, October 11**
 
 Readings:  Something
 
-### Week 4:  Prose
+### Week 4:  Customizing the TEI, ODD, Roma
 **Wednesday, October 18 & Friday, October 20**
 
 Readings:  Something
 
-### Week 5:  Poetry
+### Week 5:  Prose
 **Wednesday, October 25 & Friday, October 27**
 
 Readings:  Something
 
-### Week 6:  Drama
+### Week 6:  Poetry
 **Wednesday, November 1 & Friday, November 3**
 
 Readings:  Something
 
-### Week 7:  Primary Sources
+### Week 7:  Drama
 **Wednesday, November 8 & Friday, November 10**
 
 Readings:  Something
 
-### Week 8:  Critical Editing
+### Week 8:  Primary Sources
 **Wednesday, November 15 & Friday, November 17**
 
 Readings:  Something
 
-### Week 9:  Customizing the TEI, ODD, Roma
+### Week 9:  Critical Editing
 **Wedneday, November 29 & Friday, December 1**
 
 Readings:  Something
 
-### Week 10:  Something Magical
+### Week 10: Evaluating Critical Editions with the MLA Guidelines
 **Friday, December 6**
 
 Readings:  Something
-
