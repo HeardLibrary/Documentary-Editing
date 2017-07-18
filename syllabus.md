@@ -22,7 +22,7 @@ By the End of this course, the student will be able to:
 * [MLA Guidelines for Editors of Scholarly Editions](https://www.mla.org/Resources/Research/Surveys-Reports-and-Other-Documents/Publishing-and-Scholarship/Reports-from-the-MLA-Committee-on-Scholarly-Editions/Guidelines-for-Editors-of-Scholarly-Editions)   
 ## Required Software:
 
-** Oxygen XML Editor **
+**Oxygen XML Editor**  
 Students, staff and faculty in the School of Arts & Sciences can download a free copy of Oxygen through the Vanderbilt Software Store: [https://it-vbe.proxy.library.vanderbilt.edu/software-store/](https://it-vbe.proxy.library.vanderbilt.edu/software-store/)
 
 ## Assignments & Evaluation:
