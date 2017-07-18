@@ -35,7 +35,7 @@ Do we need to have some?
 
 *Reading*: Claus Huitfeldt, "Markup Technology and Textual Scholarship," *Digital Critical Editions*, pp. 157-178.
 
-**Wednesday, September 27 ** 
+**Wednesday, September 27** 
 
 * Review syllabus, assignments, and expectations
 * Install oXygen XML Editor (using the Software if you are a student, faculty, or staff member in the College of Arts & Science)
