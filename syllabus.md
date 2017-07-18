@@ -32,9 +32,21 @@ Do we need to have some?
 ## Schedule:
 
 ### Week 1:  Introduction to Text Encoding and the TEI
-**Wednesday, September 27 & Friday, September 29**
 
-Reading: Claus Huitfeldt, "Markup Technology and Textual Scholarship," *Digital Critical Editions*, pp. 157-178.
+*Reading*: Claus Huitfeldt, "Markup Technology and Textual Scholarship," *Digital Critical Editions*, pp. 157-178.
+
+**Wednesday, September 27 ** 
+
+* Review syllabus, assignments, and expectations
+* Install oXygen XML Editor (using the Software if you are a student, faculty, or staff member in the College of Arts & Science)
+* Introduce [TEI Guidelines](http://www.tei-c.org/Guidelines/)
+* Scan over [Guidelines for Editors of Scholarly Editions](https://www.mla.org/Resources/Research/Surveys-Reports-and-Other-Documents/Publishing-and-Scholarship/Reports-from-the-MLA-Committee-on-Scholarly-Editions/Guidelines-for-Editors-of-Scholarly-Editions)
+
+**Friday, September 29**
+
+* Orientation to the oXygen XML Editor
+* Reviewing the basics of XML syntax
+* Creating and validating a simple TEI document
 
 ### Week 2:  Common Structure and Elements in the TEI
 **Wednesday, October 4 & Friday, October 6**
