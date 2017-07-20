@@ -1,5 +1,6 @@
 # Documentary Editing with TEI   
 **Fall 2017, 12:00 p.m. on Wednesdays and Fridays**
+**Special Collections Classroom, Central Library**
 
 Clifford Anderson, *Associate University Librarian for Research and Learning; Professor of Religious Studies*
 
@@ -19,15 +20,18 @@ By the End of this course, the student will be able to:
 
 * [Apollon, Daniel, Claire Belisle, and Philippe Regnier, eds. *Digital Critical Editions*. Urbana: University of Illinois Press, 2014.](http://discoverlibrary.vanderbilt.edu/VANDERBILT:Blended:vanunicorn4723167)   
 * [Burnard, Lou. *What Is the Text Encoding Initiative?: How to Add Intelligent Markup to Digital Resources*. Marseille: OpenEdition Press, 2014.](http://books.openedition.org/oep/426)  
+* [McGann, Jerome. *A New Republic of Letters: Memory and Scholarship in the Age of Digital Reproduction*. Cambridge: Harvard University Press, 2014](http://ebookcentral.proquest.com.proxy.library.vanderbilt.edu/lib/Vand/detail.action?docID=3301420)
 * [MLA Guidelines for Editors of Scholarly Editions](https://www.mla.org/Resources/Research/Surveys-Reports-and-Other-Documents/Publishing-and-Scholarship/Reports-from-the-MLA-Committee-on-Scholarly-Editions/Guidelines-for-Editors-of-Scholarly-Editions)   
+
 ## Required Software:
 
-**Oxygen XML Editor**  
-Students, staff and faculty in the School of Arts & Sciences can download a free copy of Oxygen through the Vanderbilt Software Store: [https://it-vbe.proxy.library.vanderbilt.edu/software-store/](https://it-vbe.proxy.library.vanderbilt.edu/software-store/)
+* [Oxygen XML Editor](https://www.oxygenxml.com/)
+
+Students, staff and faculty in the School of Arts & Sciences can download a free copy of Oxygen through the [Vanderbilt Software Store](https://it-vbe.proxy.library.vanderbilt.edu/software-store/). 
 
 ## Assignments & Evaluation:
 
-Put some stuff here. Rubric? What are we assessing?
+Rubric? What are we assessing?
 
 ## Office Hours:
 
