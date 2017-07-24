@@ -46,7 +46,7 @@ Do we need to have some?
 **Wednesday, September 27** 
 
 * Review syllabus, assignments, and expectations
-* Install oXygen XML Editor (using the Software if you are a student, faculty, or staff member in the College of Arts & Science)
+* Install oXygen XML Editor (using the Software Store if you are a student, faculty, or staff member in the College of Arts & Science)
 * Introduce [TEI Guidelines](http://www.tei-c.org/Guidelines/)
 * Scan over [Guidelines for Editors of Scholarly Editions](https://www.mla.org/Resources/Research/Surveys-Reports-and-Other-Documents/Publishing-and-Scholarship/Reports-from-the-MLA-Committee-on-Scholarly-Editions/Guidelines-for-Editors-of-Scholarly-Editions)
 
