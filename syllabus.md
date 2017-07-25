@@ -101,7 +101,7 @@ Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu">Su
 
 ### Week 5:  Prose
 
-*Readings*:  Something
+*Recommend Reading*: Jerome McGann, *A New Republic of Letters*, Part One (pp. 19-73)
 
 **Wednesday, October 25**
 
@@ -114,7 +114,7 @@ Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu">Su
 
 ### Week 6:  Poetry
 
-*Readings*:  Something
+*Recommend Reading*: Jerome McGann, *A New Republic of Letters*, Part Two (pp. 77-124)
 
 **Wednesday, November 1** 
 
@@ -127,7 +127,7 @@ Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu">Su
 
 ### Week 7:  Drama
 
-*Readings*:  Something
+*Recommend Reading*: Jerome McGann, *A New Republic of Letters*, Part Three (pp. 127-198)
 
 **Wednesday, November 8**
 
@@ -140,7 +140,7 @@ Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu">Su
 
 ### Week 8:  Primary Sources
 
-*Readings*:  Something
+*Recommend Reading*: Jerome McGann, *A New Republic of Letters*, Conclusion (pp. 199-207)
 
 **Wednesday, November 15** 
 
@@ -153,7 +153,7 @@ Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu">Su
 
 ### Week 9:  Critical Editing
 
-*Readings*:  Something
+*Reading*: Daniel Apollon and Claire Bélisle, "The Digital Fate of the Critical Apparatus," *Digital Critical Editions*, pp. 81-113. 
 
 **Wednesday, November 29** 
 
@@ -168,4 +168,5 @@ Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu">Su
 
 **Friday, December 6**
 
+* Class Wrap Up and Final Discussion
 
