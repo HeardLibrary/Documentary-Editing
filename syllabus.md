@@ -1,6 +1,6 @@
 # Documentary Editing with TEI   
-**Fall 2017, 12:00 p.m. on Wednesdays and Fridays**
-**Special Collections Classroom, Central Library**
+### Fall 2017, 12:00 p.m. on Wednesdays and Fridays
+### Special Collections Classroom, Central Library
 
 Clifford Anderson, *Associate University Librarian for Research and Learning; Professor of Religious Studies*
 
@@ -31,11 +31,16 @@ Students, staff and faculty in the School of Arts & Sciences can download a free
 
 ## Assignments & Evaluation:
 
-Rubric? What are we assessing?
+This course will be graded on a pass/fail basis. To pass the course, students must not have more than two unexcused absences. They must also receive 65% or higher to pass the course.
+
+* Practical Encodings Exercises - Ungraded (Weeks 2 to 9)
+* Encoding Workshop Presentation (20%)
+* Encoding Project (50%)
+* Evaulation of Peer's Project According to the MLA Guidelines (30%)
 
 ## Office Hours:
 
-Do we need to have some?
+Available on request. Contact [Susan Grider](emailto:susan.d.grider@vanderbilt.edu) for an appointment with Professor Anderson.
 
 ## Schedule:
 
