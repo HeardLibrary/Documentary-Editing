@@ -1,6 +1,6 @@
 # Documentary Editing with TEI   
 ### Fall 2017, 12:00 p.m. on Wednesdays and Fridays
-### Special Collections Classroom, Central Library
+#### Special Collections Classroom, Central Library
 
 Clifford Anderson, *Associate University Librarian for Research and Learning; Professor of Religious Studies*
 
@@ -40,7 +40,7 @@ This course will be graded on a pass/fail basis. To pass the course, students mu
 
 ## Office Hours:
 
-Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu>Susan Grider</a> for an appointment with Professor Anderson.
+Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu">Susan Grider</a> for an appointment with Professor Anderson.
 
 ## Schedule:
 
