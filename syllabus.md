@@ -38,7 +38,7 @@ This course will be graded on a pass/fail basis. To pass the course, students mu
 * Practical Encodings Exercises - Ungraded (Weeks 2 to 9)
 * Encoding Workshop Presentation (20%)
 * Encoding Project (50%)
-* Evaulation of Peer's Project According to the MLA Guidelines (30%)
+* Peer Evaulation of Encoding Project According to the MLA Guidelines (30%)
 
 ## Office Hours:
 
