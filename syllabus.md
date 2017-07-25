@@ -52,51 +52,115 @@ Do we need to have some?
 
 **Friday, September 29**
 
-* Orientation to the oXygen XML Editor
 * Reviewing the basics of XML syntax
-* Creating and validating a simple TEI document
+* Orientation to the oXygen XML Editor
+* Checking a simple XML document
 
 ### Week 2:  Common Structure and Elements in the TEI
-**Wednesday, October 4 & Friday, October 6**
 
-Reading: Burnard, Lou. "Introduction," "The TEI and XML," "The Structural Organization of a TEI Document," and "Varieties of Textual Structure," *What Is the Text Encoding Initiative?*; Alois Pichler and Tone Merete Bruvik, "Separating Encoding from Presentation," *Digital Critical Editions*, pp. 179-199.
+*Reading*: Burnard, Lou. "Introduction," "The TEI and XML," "The Structural Organization of a TEI Document," and "Varieties of Textual Structure," *What Is the Text Encoding Initiative?*; Alois Pichler and Tone Merete Bruvik, "Separating Encoding from Presentation," *Digital Critical Editions*, pp. 179-199.
+
+**Wednesday, October 4**
+
+* Generate a sample TEI document with Oxygen
+* Encode a paragraph in TEI
+
+**Friday, October 6**
+
+* Exploring TEI with XQuery
+* Publishing TEI with XSLT
 
 ### Week 3:  The TEI Header
+
+*Readings*: 
+
 **Wednesday, October 11**
 
-Readings:  Something
+* Reviewing options for TEI Header
+* Encoding a TEI Header
+* Selecting class project
+
+**Wednesday, October 13** - *Fall Break*
 
 ### Week 4:  Customizing the TEI, ODD, Roma
-**Wednesday, October 18 & Friday, October 20**
 
-Readings:  Something
+*Readings*:  Something
+
+**Wednesday, October 18** 
+
+* Strategies for Validating XML
+
+**Friday, October 20**
+
+* Strategies for Validating TEI
 
 ### Week 5:  Prose
-**Wednesday, October 25 & Friday, October 27**
 
-Readings:  Something
+*Readings*:  Something
+
+**Wednesday, October 25**
+
+* Strategies for Encoding Prose
+
+**Friday, October 27**
+
+* Student Presentation
+* Encoding Workshop
 
 ### Week 6:  Poetry
-**Wednesday, November 1 & Friday, November 3**
 
-Readings:  Something
+*Readings*:  Something
+
+**Wednesday, November 1** 
+
+* Strategies for Encoding Poetry
+
+**Friday, November 3**
+
+* Student Presentation
+* Encoding Workshop
 
 ### Week 7:  Drama
-**Wednesday, November 8 & Friday, November 10**
 
-Readings:  Something
+*Readings*:  Something
+
+**Wednesday, November 8**
+
+* Strategies for Encoding Drama
+
+**Friday, November 10**
+
+* Student Presentation
+* Encoding Workshop
 
 ### Week 8:  Primary Sources
-**Wednesday, November 15 & Friday, November 17**
 
-Readings:  Something
+*Readings*:  Something
+
+**Wednesday, November 15** 
+
+* Strategies for Encoding Primary Sources
+
+**Friday, November 17**
+
+* Student Presentation
+* Encoding Workshop
 
 ### Week 9:  Critical Editing
-**Wedneday, November 29 & Friday, December 1**
 
-Readings:  Something
+*Readings*:  Something
+
+**Wednesday, November 29** 
+
+* Strategies for Encoding Critical Editions
+
+**Friday, December 1**
+
+* Student Presentation
+* Encoding Workshop
 
 ### Week 10: Evaluating Critical Editions with the MLA Guidelines
+
 **Friday, December 6**
 
-Readings:  Something
+
