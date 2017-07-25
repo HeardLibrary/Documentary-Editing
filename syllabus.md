@@ -46,7 +46,7 @@ Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu">Su
 
 ### Week 1:  Introduction to Text Encoding and the TEI
 
-*Reading*: Claus Huitfeldt, "Markup Technology and Textual Scholarship," *Digital Critical Editions*, pp. 157-178.
+*Reading*: Claus Huitfeldt, "Markup Technology and Textual Scholarship," *Digital Critical Editions*, pp. 157-178; David J. Birnbaum, "What is XML and why should humanists care? An even gentler introduction to XML."
 
 **Wednesday, September 27** 
 
@@ -63,7 +63,7 @@ Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu">Su
 
 ### Week 2:  Common Structure and Elements in the TEI
 
-*Reading*: Burnard, Lou. "Introduction," "The TEI and XML," "The Structural Organization of a TEI Document," and "Varieties of Textual Structure," *What Is the Text Encoding Initiative?*; Alois Pichler and Tone Merete Bruvik, "Separating Encoding from Presentation," *Digital Critical Editions*, pp. 179-199.
+*Reading*: Lou Burnard, "Introduction," "The TEI and XML," "The Structural Organization of a TEI Document," and "Varieties of Textual Structure," *What Is the Text Encoding Initiative?*; Alois Pichler and Tone Merete Bruvik, "Separating Encoding from Presentation," *Digital Critical Editions*, pp. 179-199.
 
 **Wednesday, October 4**
 
@@ -77,7 +77,7 @@ Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu">Su
 
 ### Week 3:  The TEI Header
 
-*Readings*: 
+*Readings*: Lou Burnard, "The TEI Header," *What Is the Text Encoding Initiative?*; Steven DeRose, et. al. "What Is Text, Really?" ACM SIGDOC Asterisk Journal of Computer Documentation 21:3 (1997), 1 - 24. (off campus)
 
 **Wednesday, October 11**
 
@@ -89,7 +89,7 @@ Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu">Su
 
 ### Week 4:  Customizing the TEI, ODD, Roma
 
-*Readings*:  Something
+*Readings*:  Lou Burnard, "The TEI Header," *Customizing the TEI*; Odd Einar Haugen, "The Making of an Edition: Three Crucial Dimensions," *Digital Critical Editions*, pp. 203-245. 
 
 **Wednesday, October 18** 
 
