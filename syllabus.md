@@ -40,7 +40,7 @@ This course will be graded on a pass/fail basis. To pass the course, students mu
 
 ## Office Hours:
 
-Available on request. Contact [Susan Grider](emailto:susan.d.grider@vanderbilt.edu) for an appointment with Professor Anderson.
+Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu>Susan Grider</a> for an appointment with Professor Anderson.
 
 ## Schedule:
 
