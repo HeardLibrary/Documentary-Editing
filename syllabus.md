@@ -46,7 +46,8 @@ Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu">Su
 
 ### Week 1:  Introduction to Text Encoding and the TEI
 
-*Reading*: Claus Huitfeldt, "Markup Technology and Textual Scholarship," *Digital Critical Editions*, pp. 157-178; David J. Birnbaum, "What is XML and why should humanists care? An even gentler introduction to XML."
+*Required Reading*: Claus Huitfeldt, "Markup Technology and Textual Scholarship," *Digital Critical Editions*, pp. 157-178;  
+David J. Birnbaum, "What is XML and why should humanists care? An even gentler introduction to XML."
 
 **Wednesday, September 27** 
 
@@ -63,7 +64,8 @@ Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu">Su
 
 ### Week 2:  Common Structure and Elements in the TEI
 
-*Reading*: Lou Burnard, "Introduction," "The TEI and XML," "The Structural Organization of a TEI Document," and "Varieties of Textual Structure," *What Is the Text Encoding Initiative?*; Alois Pichler and Tone Merete Bruvik, "Separating Encoding from Presentation," *Digital Critical Editions*, pp. 179-199.
+*Required Reading*: Lou Burnard, "Introduction," "The TEI and XML," "The Structural Organization of a TEI Document," and "Varieties of Textual Structure," *What Is the Text Encoding Initiative?*;  
+Alois Pichler and Tone Merete Bruvik, "Separating Encoding from Presentation," *Digital Critical Editions*, pp. 179-199.
 
 **Wednesday, October 4**
 
@@ -77,7 +79,8 @@ Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu">Su
 
 ### Week 3:  The TEI Header
 
-*Readings*: Lou Burnard, "The TEI Header," *What Is the Text Encoding Initiative?*; Steven DeRose, et. al. "What Is Text, Really?" ACM SIGDOC Asterisk Journal of Computer Documentation 21:3 (1997), 1 - 24. (off campus)
+*Required Readings*: Lou Burnard, "The TEI Header," *What Is the Text Encoding Initiative?*;  
+Steven DeRose, et. al. "What Is Text, Really?" ACM SIGDOC Asterisk Journal of Computer Documentation 21:3 (1997), 1 - 24. (off campus)
 
 **Wednesday, October 11**
 
@@ -89,7 +92,8 @@ Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu">Su
 
 ### Week 4:  Customizing the TEI, ODD, Roma
 
-*Readings*:  Lou Burnard, "The TEI Header," *Customizing the TEI*; Odd Einar Haugen, "The Making of an Edition: Three Crucial Dimensions," *Digital Critical Editions*, pp. 203-245. 
+*Required Readings*:  Lou Burnard, "The TEI Header," *What Is the Text Encoding Initiative?*;  
+Odd Einar Haugen, "The Making of an Edition: Three Crucial Dimensions," *Digital Critical Editions*, pp. 203-245. 
 
 **Wednesday, October 18** 
 
@@ -101,7 +105,7 @@ Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu">Su
 
 ### Week 5:  Prose
 
-*Recommend Reading*: Jerome McGann, *A New Republic of Letters*, Part One (pp. 19-73)
+*Recommended Reading*: Jerome McGann, *A New Republic of Letters*, Part One (pp. 19-73)
 
 **Wednesday, October 25**
 
@@ -114,7 +118,7 @@ Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu">Su
 
 ### Week 6:  Poetry
 
-*Recommend Reading*: Jerome McGann, *A New Republic of Letters*, Part Two (pp. 77-124)
+*Recommended Reading*: Jerome McGann, *A New Republic of Letters*, Part Two (pp. 77-124)
 
 **Wednesday, November 1** 
 
@@ -127,7 +131,7 @@ Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu">Su
 
 ### Week 7:  Drama
 
-*Recommend Reading*: Jerome McGann, *A New Republic of Letters*, Part Three (pp. 127-198)
+*Recommended Reading*: Jerome McGann, *A New Republic of Letters*, Part Three (pp. 127-198)
 
 **Wednesday, November 8**
 
@@ -140,7 +144,7 @@ Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu">Su
 
 ### Week 8:  Primary Sources
 
-*Recommend Reading*: Jerome McGann, *A New Republic of Letters*, Conclusion (pp. 199-207)
+*Recommended Reading*: Jerome McGann, *A New Republic of Letters*, Conclusion (pp. 199-207)
 
 **Wednesday, November 15** 
 
@@ -153,7 +157,7 @@ Available on request. Contact <a href="emailto:susan.d.grider@vanderbilt.edu">Su
 
 ### Week 9:  Critical Editing
 
-*Reading*: Daniel Apollon and Claire Bélisle, "The Digital Fate of the Critical Apparatus," *Digital Critical Editions*, pp. 81-113. 
+*Recommended Reading*: Daniel Apollon and Claire Bélisle, "The Digital Fate of the Critical Apparatus," *Digital Critical Editions*, pp. 81-113. 
 
 **Wednesday, November 29** 
 
