@@ -42,8 +42,8 @@ This course will be graded on a pass/fail basis. To pass the course, students mu
 
 ## Office Hours:
 
-Available by appointment: 
-Contact Susan Grider, susan.d.grider@vanderbilt.edu, for an appointment with Professor Anderson.
+Available by appointment:   
+Contact Susan Grider, susan.d.grider@vanderbilt.edu, for an appointment with Professor Anderson.  
 Schedule an appointment with Ramona:  [Appointment Calendar](http://calendar.library.vanderbilt.edu/appointment/8692)
 
 ## Schedule:
