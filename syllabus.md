@@ -96,7 +96,7 @@ Steven DeRose, et. al. "What Is Text, Really?" ACM SIGDOC Asterisk Journal of Co
 
 ### Week 4:  Customizing the TEI, ODD, Roma
 
-*Required Readings*:  Lou Burnard, "The TEI Header," *What Is the Text Encoding Initiative?*;  
+*Required Readings*:  Lou Burnard, "Customizing the TEI," *What Is the Text Encoding Initiative?*;  
 Odd Einar Haugen, "The Making of an Edition: Three Crucial Dimensions," *Digital Critical Editions*, pp. 203-245. 
 
 **Wednesday, October 18** 
