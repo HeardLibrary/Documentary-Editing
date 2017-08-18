@@ -43,15 +43,15 @@ This course will be graded on a pass/fail basis. To pass the course, students mu
 ## Office Hours:
 
 Available by appointment:   
-Contact Susan Grider, susan.d.grider@vanderbilt.edu, for an appointment with Professor Anderson.  
-Schedule an appointment with Ramona:  [Appointment Calendar](http://calendar.library.vanderbilt.edu/appointment/8692)
+Contact Susan Grider (susan.d.grider@vanderbilt.edu) for an appointment with Professor Anderson.  
+Schedule an appointment with Ramona: [Appointment Calendar](http://calendar.library.vanderbilt.edu/appointment/8692)
 
 ## Schedule:
 
 ### Week 1:  Introduction to Text Encoding and the TEI
 
 *Required Reading*: Claus Huitfeldt, "Markup Technology and Textual Scholarship," *Digital Critical Editions*, pp. 157-178;  
-David J. Birnbaum, "What is XML and why should humanists care? An even gentler introduction to XML."
+David J. Birnbaum, "[What is XML and why should humanists care? An even gentler introduction to XML](http://dh.obdurodon.org/what-is-xml.xhtml)."
 
 **Wednesday, September 27** 
 
@@ -84,7 +84,7 @@ Alois Pichler and Tone Merete Bruvik, "Separating Encoding from Presentation," *
 ### Week 3:  The TEI Header
 
 *Required Readings*: Lou Burnard, "The TEI Header," *What Is the Text Encoding Initiative?*;  
-Steven DeRose, et. al. "What Is Text, Really?" ACM SIGDOC Asterisk Journal of Computer Documentation 21:3 (1997), 1 - 24. (off campus)
+Steven DeRose, et. al. "[What Is Text, Really?](http://delivery.acm.org/10.1145/270000/264843/p1-derose.pdf)" ACM SIGDOC Asterisk Journal of Computer Documentation 21:3 (1997), 1 - 24. (off campus)
 
 **Wednesday, October 11**
 
