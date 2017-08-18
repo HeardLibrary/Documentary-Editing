@@ -1,14 +1,16 @@
 # Documentary Editing with TEI   
 ### Fall 2017, 12:00 p.m. on Wednesdays and Fridays
-#### Special Collections Classroom, Central Library
+#### Special Collections Classroom, Special Collections, 2nd Floor of the Central Library
 
 Clifford Anderson, *Associate University Librarian for Research and Learning; Professor of Religious Studies* 
+
 Email:  clifford.anderson@Vanderbilt.edu
 
 Ramona Romero, *Librarian for Anthropology, Classical Studies & Philosophy* 
+
 Email:  ramona.romero@vanderbilt.edu
 
-How do scholars represent manuscript and printed sources in the digital age? In this course, students will produce scholarly editions using the Text Encoding Initiative (TEI). After exploring our collections to identify a relevant manuscript or printed source, they will interview specialists and stakeholders to determine the best way to represent both its intellectual content and physical structure. Students will undertake digital editions, exploring the differences between digital facsimiles, diplomatic editions, and critical editions. By the conclusion of the course, students will be able to produce digital editions conforming to the MLA's Guidelines for Editors of Scholarly Editions. 
+How do scholars represent manuscript and printed sources in the digital age? In this course, students will produce scholarly editions using the Text Encoding Initiative (TEI). After exploring our collections to identify a relevant manuscript or printed source, they will interview specialists and stakeholders to determine the best way to represent both its intellectual content and physical structure. Students will undertake digital editions, exploring the differences between digital facsimiles, diplomatic editions, and critical editions. By the conclusion of the course, students will be able to produce digital editions in the spirit of the MLA's [Guidelines for Editors of Scholarly Editions](https://www.mla.org/Resources/Research/Surveys-Reports-and-Other-Documents/Publishing-and-Scholarship/Reports-from-the-MLA-Committee-on-Scholarly-Editions/Guidelines-for-Editors-of-Scholarly-Editions). 
 
 ## Learning Objectives:
 
@@ -42,8 +44,10 @@ This course will be graded on a pass/fail basis. To pass the course, students mu
 
 ## Office Hours:
 
-Available by appointment:   
-Contact Susan Grider (susan.d.grider@vanderbilt.edu) for an appointment with Professor Anderson.  
+Available by appointment:  
+
+Schedule appointment with Professor Anderson with Susan Grider (susan.d.grider@vanderbilt.edu).  
+
 Schedule an appointment with Ramona: [Appointment Calendar](http://calendar.library.vanderbilt.edu/appointment/8692)
 
 ## Schedule:
@@ -84,7 +88,7 @@ Alois Pichler and Tone Merete Bruvik, "Separating Encoding from Presentation," *
 ### Week 3:  The TEI Header
 
 *Required Readings*: Lou Burnard, "The TEI Header," *What Is the Text Encoding Initiative?*;  
-Steven DeRose, et. al. "[What Is Text, Really?](http://delivery.acm.org/10.1145/270000/264843/p1-derose.pdf)" ACM SIGDOC Asterisk Journal of Computer Documentation 21:3 (1997), 1 - 24. (off campus)
+Steven DeRose, et. al. "[What Is Text, Really?](http://delivery.acm.org/10.1145/270000/264843/p1-derose.pdf)" ACM SIGDOC Asterisk Journal of Computer Documentation 21:3 (1997), 1 - 24.
 
 **Wednesday, October 11**
 
